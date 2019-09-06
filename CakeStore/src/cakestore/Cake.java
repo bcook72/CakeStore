@@ -1,5 +1,7 @@
 package cakestore;
 
+/* this is where we implement the abstract cake class and all cake orders will derive from this concrete class */
+
 public abstract class Cake {
 String name;
 String frosting;

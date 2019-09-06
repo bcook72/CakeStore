@@ -1,5 +1,7 @@
 package cakestore;
 
+/* This implements the Ohio cake store */
+
 public class Ohiosweetstore extends Sweetstore{
 
 	Cake createCake(String item) {

@@ -1,5 +1,7 @@
 package cakestore;
 
+/* This creates the Iowa Cake store */
+
 public class Iowasweetstore extends Sweetstore{
 
 	Cake createCake(String item) {

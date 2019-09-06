@@ -1,5 +1,7 @@
 package cakestore;
 
+/* This implements the cake Ohio Special */
+
 public class OhioSpecial extends Cake {
 	
 	public OhioSpecial() {

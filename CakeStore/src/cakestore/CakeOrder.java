@@ -1,5 +1,7 @@
 package cakestore;
 
+/* This is where we place the order combining all of the pieces of the factory pattern */
+
 public class CakeOrder {
 
 	public static void main(String[] args) {
